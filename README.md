@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Sergey</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+![Без названия](https://user-images.githubusercontent.com/44576572/162609705-86be2d08-387a-4561-8a6d-efd92b5f4d8a.png)
 <h3 align="center">Computer science student and starter developer 🇷🇺</h3>
 
 <!--
@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
